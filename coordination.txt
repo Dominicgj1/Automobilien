@@ -6,7 +6,7 @@ Elena Idee: Wasserflasche
 
 Carolina Idee: Parfum 
 
-Alex Idee: Auto 
+Alex Idee: Auto (Innovation Idee gegeben)
 
 Dominic: Skateboard 
 
@@ -22,10 +22,13 @@ Carolina Kontrolle
 
 -Argument 1 
 
-Alexander Innovation 
+Alexander (Innovation Idee gegeben) 
 
 -Argument 2 
 
-Dominic  
+Dominic  (Innovation Idee gegeben)
 
 -Argument 3 
+
+
+
